@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="pt-BR" dir="ltr">
+<head>
+  <meta charset="utf-8">
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css">
+
+  <title>Pedra, Papel, Tesoura</title>
+</head>
+<body>
+
+  <header>
+    <h1>Pedra, Papel, Tesoura </h1>
+  </header>
+
+  <div class="score-board">
+    <div id="user-label" class="badge">user</div>
+    <div id="computer-label"class="badge">comp</div>
+
+    <span id="user-score">0</span>:<span id="computer-score">0</span>
+  </div>
+
+  <div class="result">
+    <p>Começe o jogo!.</p>
+  </div>
+
+  <div class="choices">
+    <div class="choice" id="r">
+      <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/146/raised-fist_270a.png" alt="Pedra">
+    </div>
+    <div class="choice" id="p">
+      <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/146/raised-hand_270b.png" alt="Papel">
+    </div>
+    <div class="choice" id="s">
+      <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/146/victory-hand_270c.png" alt="Tesoura">
+    </div>
+  </div>
+
+  <p id="action-message">Faça sua escolha!</p>
+  <script src="app.js" charset="utf-8"></script>
+
+</body>
+</html>
