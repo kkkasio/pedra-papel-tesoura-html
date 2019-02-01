@@ -1,6 +1,6 @@
 ### Jokempô ou Pedra, Papel e Tesoura
-*[WIKIPEDIA]*(https://pt.wikipedia.org/wiki/Pedra,_papel_e_tesoura) - Pedra, papel e tesoura <br>
-*[CODEPEN]*(https://codepen.io/kkkasio/pen/pGPJGY) - Demonstração
+**[WIKIPEDIA]** (https://pt.wikipedia.org/wiki/Pedra,_papel_e_tesoura) - Pedra, papel e tesoura <br>
+**[CODEPEN]** (https://codepen.io/kkkasio/pen/pGPJGY) - Demonstração
 
 **Imagens**
 
